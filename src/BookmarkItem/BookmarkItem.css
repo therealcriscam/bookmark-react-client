@@ -30,3 +30,12 @@
   font-size: .8em;
   text-align: right;
 }
+
+button.BookmarkItem__description {
+  margin-left: 10px;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
